@@ -1,7 +1,8 @@
-# Tauri + Vanilla
+# Login Portal (Tauri + Rust)
+<div align="center">
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+<img src="resources/outcome.png" width=315>
 
-## Recommended IDE Setup
+</div>
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+This is purely a concept to test Tauri using HTML, Javascript and HTML as the frontend and Rust as the backend.
